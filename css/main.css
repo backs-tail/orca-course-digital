@@ -1,0 +1,22 @@
+.wid {
+  width: 99%;
+  max-width: 100%
+}
+.as,
+.mdw {
+  width: 100%
+}
+.as {
+  max-width: 500%
+}
+.mdw {
+  max-width: 60%
+}
+.wwww {
+  width: 40%
+}
+.hh {
+  width: 600px;
+  max-width: 600px
+}
+
