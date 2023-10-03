@@ -2,9 +2,21 @@
   width: 99%;
   max-width: 100%
 }
+
+.bhh {
+  background-image: url("https://static.shuffle.dev/uploads/files/31/31acd37b2b50a669f14d997f67ecc3c6c891f0de/dynamic-sales-chart.gif");
+  background-position-x: 60%;
+  background-position-y: 75%;
+  background-repeat: inherit;
+  background-size: cover
+}
+.bggg {
+  background-image: url("https://static.shuffle.dev/uploads/files/31/31acd37b2b50a669f14d997f67ecc3c6c891f0de/Sine-Cosine-Illustrated-Animated-Gif-Image.gif")
+}
 .as,
 .mdw {
   width: 100%
+  
 }
 .as {
   max-width: 500%
